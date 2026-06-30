@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class longestsubarray{
 
     public static void lengthOfLongestSubstring(String s) {
         HashSet<Character> set = new HashSet<>();
